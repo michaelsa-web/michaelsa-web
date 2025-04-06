@@ -1,13 +1,13 @@
 Hi there, my name is Mitch Da Silva and welcome to my repository.
 
-👋 ###**About me**
+👋 ### **About me**
 
 I'm a dual 🇿🇦 South African and 🇵🇹 Portuguese national who lives in the UK - go figure... I'm starting my data science and AI journey and recently completed a University of Cambridge course. I welcome any feedback about my work. 
 I really enjoy sports, and exercise in the 💪gym (🏋️‍♂️lifting weights, and 🏃‍♂️cardio) and play 🏏cricket whenever possible. I'm also a big fan of 🏉rugby and ⚽football. 
 More importantly, I have a wonderful ❤️family and really enjoy spending time with them. 
 
 
-👀 ###**I’m interested in**
+👀 ### **I’m interested in**
 
 I'm getting to grips with all things tech related but have a particular interest in:
 - **Python**
